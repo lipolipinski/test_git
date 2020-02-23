@@ -3,3 +3,4 @@ server { listen 8080; server_name  mytest.com; return 302 https://cnn.com; }
 server { listen 9080; server_name  mytest.com; return 302 https://git.com; } 
 server { listen 9080; server_name  test.com; return 302 https://google.com; } 
 server { listen 9090; server_name  test.com; return 302 https://yahoo.com; } 
+server { listen 9090; server_name  mytest.com; return 302 https://abc.com; } 
