@@ -1,1 +1,6 @@
-it should be something in here last time I checked the other day as well
+workflow:
+pull from remote
+create a branch 
+add line to vhost 
+push to remote
+hook something
